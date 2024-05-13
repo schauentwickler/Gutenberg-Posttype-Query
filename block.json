@@ -1,0 +1,15 @@
+{
+	"apiVersion": 2,
+	"name": "create-block/boilerplate",
+	"title": "DFlip Book Display",
+	"category": "widgets",
+	"icon": "book",
+	"description": "Example block written with ESNext standard and JSX support – build step required.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "boilerplate",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
